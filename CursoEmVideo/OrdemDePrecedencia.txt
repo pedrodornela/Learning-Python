@@ -1,0 +1,15 @@
+ORDEM DE PRECEDÊNCIA(PYTHON)
+1°: ()->parênteces
+2°: **(potência)
+3°: *(multiplicação),/(divisão),//(divisão inteira),%(resto)--> executar na ordem que aparecer
+4°: +(soma),-(subtração)
+_________________________________________
+
+Comandos:
+
+ceil -> arredonda para cima
+floor -> arredonda para baixo
+trunc -> fica somente a parte inteira do número
+pow -> potência
+sqrt -> raiz quadrada
+factorial -> fatorial

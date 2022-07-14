@@ -1,0 +1,7 @@
+texto = str(input('Escreva seu nome completo: '))
+print(texto.upper())
+print(texto.lower())
+texto1 = texto.replace(' ', '')
+print('O nome todo possui ', len(texto1), ' letras')
+texto2 = texto.split()
+print(texto2[0], 'é o primeiro nome')
